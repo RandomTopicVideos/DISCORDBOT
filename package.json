@@ -1,0 +1,30 @@
+{
+  "name": "tutorial-bot",
+  "version": "1.0.0",
+  "description": "A tutorial Discord Bot, by Blob Development.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "aki-api": "^5.1.1",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "image-js": "^0.21.9",
+    "mathjs": "^7.1.0",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "node-superfetch": "^0.1.10",
+    "opusscript": "0.0.7",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1",
+    "something-random-on-discord": "0.0.2",
+    "superfetch": "^1.1.1",
+    "youtube-notification": "^1.1.0",
+    "ytdl-core": "^3.2.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "Apache-2.0"
+}
